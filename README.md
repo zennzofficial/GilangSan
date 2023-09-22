@@ -25,7 +25,7 @@ Twitter : -
 ```
 
 <h3>Contact Me📞</h3>
-<a href="https://wa.me/62895634865955">Whatsapp ☎️</a>
-<a href="https://instagram.com/l4lang">Instagram 📷</a>
+<a align="center" href="https://wa.me/62895634865955">Whatsapp ☎️</a><br>
+<a align="center"  href="https://instagram.com/l4lang">Instagram 📷</a>
 
-<h2>Thanks!</h2>
+<h2 align="center">Thanks!</h2>
