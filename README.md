@@ -1,16 +1,31 @@
-### Hi there 👋
+<h2 align="center">Hello, Welcome To My Github Pages. 👋</h2>
 
-<!--
-**GilangSan/GilangSan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">I'm a pemula puh sepuh ajarin aku dong puh😓</h3>
 
-Here are some ideas to get you started:
+```sh 
+My Personal Profile.
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+👤Name : Lang ( Gilang )
+🏙️From : Pekanbaru, Sumatera.
+🎂Age : 13 Y.o
+🎮Hobby : Game/Code/Watch.
+📎Fav Language : JavaScript.
+```
+
+```sh
+Social Media
+```
+
+```javascript
+Instagram : @l4lang
+Facebook : -
+Twitter : -
+```
+
+<h3>Contact Me📞</h3>
+<a href="https://wa.me/62895634865955">Whatsapp ☎️</a>
+<a href="https://instagram.com/l4lang">Instagram 📷</a>
+
+<h2>Thanks!</h2>
