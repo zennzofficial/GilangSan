@@ -28,4 +28,4 @@ Twitter : -
 <a align="center" href="https://wa.me/62895634865955">Whatsapp ☎️</a><br>
 <a align="center"  href="https://instagram.com/l4lang">Instagram 📷</a>
 
-[![GilangSan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GilangSan)](https://github.com/anuraghazra)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=gilangsan&show_icons=true&theme=radical)
