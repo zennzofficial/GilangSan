@@ -29,3 +29,4 @@ Twitter : -
 <a align="center"  href="https://instagram.com/l4lang">Instagram 📷</a>
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=gilangsan&show_icons=true&theme=radical)
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=gilangsan&layout=compact)
