@@ -1,7 +1,5 @@
 <h2 align="center">Hello, Welcome To My Github Pages. 👋</h2>
 
-<h3 align="left">I'm a pemula puh sepuh ajarin aku dong puh😓</h3>
-
 ```sh 
 My Personal Profile.
 ```
