@@ -22,9 +22,14 @@ Facebook : -
 Twitter : -
 ```
 
-<h3>Contact Me📞</h3>
-<a align="center" href="https://wa.me/62895634865955">Whatsapp ☎️</a><br>
-<a align="center"  href="https://instagram.com/l4lang">Instagram 📷</a>
+### Contact Me📞
+<p align="center">
+  <a href="https://instagram.com/l4lang"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/62895634865955"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://youtube.com/@langbotz"><img src="https://img.shields.io/badge/YouTube-Naze -ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/@Nazedev" /><br>
+  <a href="https://github.com/gilangsan"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
+#### Visitor
+![Visitor](https://profile-counter.glitch.me/%7Bgilangsan%7D/count.svg)
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=gilangsan&show_icons=true&theme=radical)
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=gilangsan&layout=compact)
